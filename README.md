@@ -1,2 +1,1 @@
-# sam
-no 
+# gethub cource
